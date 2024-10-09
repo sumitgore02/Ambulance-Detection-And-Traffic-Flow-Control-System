@@ -1,1 +1,3 @@
-# Ambulance-Detection-And-Traffic-Flow-Control-System
+# Ambulance Detection And Traffic Flow Control System
+
+We are creating This Project using IoT technology. In this system we control the traffic lights by connecting them to an Arduino Mega 2560. Similarly, we Install RFID readers at 100 meters Distance on the road starting from every traffic signal And the RFID reader is connected to the Arduino Mega 2560. The RFID tag has been fixed on the ambulance. When the ambulance passes through a pathway where an RFID reader has been installed, the RFID reader detects the ambulance. Once the ambulance is detected by the RFID reader. When the Arduino Mega 2560 receives a message from the RFID reader, then the Arduino Mega 2560 adjusts the traffic flow by creating a pathway for the ambulance, allowing it to pass through the road. When an ambulance arrives, then traffic flow is temporarily adjusted and managed accordingly.
